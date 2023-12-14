@@ -38,7 +38,7 @@
              <suiteXmlFile>testng1.xml</suiteXmlFile>
           </suiteXmlFiles>
           <systemPropertyVariables>
-          <browser>${Browsername}</browser>
+          <browser>${Browser}</browser>
           </systemPropertyVariables>
         </configuration>
       </plugin>
